@@ -1,0 +1,12 @@
+C:\Users\AERO\Downloads\Distributed Bank System\BankDLL\bin\Debug\BankDLL.dll
+C:\Users\AERO\Downloads\Distributed Bank System\BankDLL\bin\Debug\BankDLL.pdb
+C:\Users\AERO\Downloads\Distributed Bank System\BankDLL\obj\Debug\BankDLL.csproj.AssemblyReference.cache
+C:\Users\AERO\Downloads\Distributed Bank System\BankDLL\obj\Debug\BankDLL.csproj.CoreCompileInputs.cache
+C:\Users\AERO\Downloads\Distributed Bank System\BankDLL\obj\Debug\BankDLL.dll
+C:\Users\AERO\Downloads\Distributed Bank System\BankDLL\obj\Debug\BankDLL.pdb
+C:\Users\moham\Downloads\Distributed Bank System\BankDLL\bin\Debug\BankDLL.dll
+C:\Users\moham\Downloads\Distributed Bank System\BankDLL\bin\Debug\BankDLL.pdb
+C:\Users\moham\Downloads\Distributed Bank System\BankDLL\obj\Debug\BankDLL.csproj.AssemblyReference.cache
+C:\Users\moham\Downloads\Distributed Bank System\BankDLL\obj\Debug\BankDLL.csproj.CoreCompileInputs.cache
+C:\Users\moham\Downloads\Distributed Bank System\BankDLL\obj\Debug\BankDLL.dll
+C:\Users\moham\Downloads\Distributed Bank System\BankDLL\obj\Debug\BankDLL.pdb

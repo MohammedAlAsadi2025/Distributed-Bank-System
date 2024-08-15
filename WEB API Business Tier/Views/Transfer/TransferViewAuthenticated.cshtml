@@ -1,0 +1,23 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model API_Classes.TransferInputModel
+
+<form asp-action="ProcessTransfer" asp-controller="Transfer" method="post" enctype="application/x-www-form-urlencoded">
+
+    <div class="form-group">
+        <label for="recipientAccountNo">Recipient's Account Number:</label>
+        <input type="text" class="form-control" id="recipientAccountNo" name="RecipientAccountNo" required>
+    </div>
+    <div class="form-group">
+        <label for="amount">Amount:</label>
+        <input type="text" class="form-control" id="amount" name="Amount" required>
+    </div>
+    <div class="form-group">
+        <label for="description">Description:</label>
+        <textarea class="form-control" id="description" name="Description" required></textarea>
+    </div>
+    <button type="submit" class="btn btn-primary">Transfer</button>
+</form>

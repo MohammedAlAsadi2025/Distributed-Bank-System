@@ -1,0 +1,21 @@
+C:\Users\AERO\Downloads\Distributed Bank System\Bank System Server\bin\Debug\Bank System Server.exe.config
+C:\Users\AERO\Downloads\Distributed Bank System\Bank System Server\bin\Debug\Bank System Server.exe
+C:\Users\AERO\Downloads\Distributed Bank System\Bank System Server\bin\Debug\Bank System Server.pdb
+C:\Users\AERO\Downloads\Distributed Bank System\Bank System Server\bin\Debug\BankDLL.dll
+C:\Users\AERO\Downloads\Distributed Bank System\Bank System Server\bin\Debug\BankDLL.pdb
+C:\Users\AERO\Downloads\Distributed Bank System\Bank System Server\obj\Debug\Bank System Server.csproj.AssemblyReference.cache
+C:\Users\AERO\Downloads\Distributed Bank System\Bank System Server\obj\Debug\Bank System Server.csproj.CoreCompileInputs.cache
+C:\Users\AERO\Downloads\Distributed Bank System\Bank System Server\obj\Debug\Bank System Server.csproj.CopyComplete
+C:\Users\AERO\Downloads\Distributed Bank System\Bank System Server\obj\Debug\Bank System Server.exe
+C:\Users\AERO\Downloads\Distributed Bank System\Bank System Server\obj\Debug\Bank System Server.pdb
+C:\Users\moham\Downloads\Distributed Bank System\Bank System Server\bin\Debug\Bank System Server.exe.config
+C:\Users\moham\Downloads\Distributed Bank System\Bank System Server\bin\Debug\Bank System Server.exe
+C:\Users\moham\Downloads\Distributed Bank System\Bank System Server\bin\Debug\Bank System Server.pdb
+C:\Users\moham\Downloads\Distributed Bank System\Bank System Server\bin\Debug\BankDLL.dll
+C:\Users\moham\Downloads\Distributed Bank System\Bank System Server\bin\Debug\BankDLL.pdb
+C:\Users\moham\Downloads\Distributed Bank System\Bank System Server\obj\Debug\Bank System Server.csproj.AssemblyReference.cache
+C:\Users\moham\Downloads\Distributed Bank System\Bank System Server\obj\Debug\Bank System Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\Downloads\Distributed Bank System\Bank System Server\obj\Debug\Bank System Server.csproj.CoreCompileInputs.cache
+C:\Users\moham\Downloads\Distributed Bank System\Bank System Server\obj\Debug\Bank System Server.csproj.CopyComplete
+C:\Users\moham\Downloads\Distributed Bank System\Bank System Server\obj\Debug\Bank System Server.exe
+C:\Users\moham\Downloads\Distributed Bank System\Bank System Server\obj\Debug\Bank System Server.pdb

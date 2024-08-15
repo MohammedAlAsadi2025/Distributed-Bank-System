@@ -1,0 +1,17 @@
+﻿<Window x:Class="Desktop.BankAccountCreation"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Desktop"
+        mc:Ignorable="d"
+        Title="BankAccountCreation" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="fNameBox" HorizontalAlignment="Left" Margin="332,135,0,0" TextWrapping="Wrap" Text="First Name" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.759,0.421"/>
+        <TextBox x:Name="lNameBox" HorizontalAlignment="Left" Margin="332,164,0,0" TextWrapping="Wrap" Text="Last Name" VerticalAlignment="Top" Width="120" />
+        <TextBox x:Name="accNoBox" HorizontalAlignment="Left" Margin="332,199,0,0" TextWrapping="Wrap" Text="Account Number" VerticalAlignment="Top" Width="120" RenderTransformOrigin="-0.094,0.219"/>
+        <TextBox x:Name="pinBox" HorizontalAlignment="Left" Margin="332,235,0,0" TextWrapping="Wrap" Text="PIN" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="balanceBox" HorizontalAlignment="Left" Margin="332,273,0,0" TextWrapping="Wrap" Text="Balance" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="createButton" Content="Button" HorizontalAlignment="Left" Margin="365,350,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.115,0.591" Height="29" Width="54" Click="createButton_Click"/>
+    </Grid>
+</Window>

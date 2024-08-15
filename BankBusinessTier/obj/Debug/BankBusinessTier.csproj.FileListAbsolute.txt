@@ -1,0 +1,11 @@
+C:\Users\moham\Downloads\Distributed Bank System\BankBusinessTier\bin\Debug\BankBusinessTier.exe.config
+C:\Users\moham\Downloads\Distributed Bank System\BankBusinessTier\bin\Debug\BankBusinessTier.exe
+C:\Users\moham\Downloads\Distributed Bank System\BankBusinessTier\bin\Debug\BankBusinessTier.pdb
+C:\Users\moham\Downloads\Distributed Bank System\BankBusinessTier\bin\Debug\BankDLL.dll
+C:\Users\moham\Downloads\Distributed Bank System\BankBusinessTier\bin\Debug\BankDLL.pdb
+C:\Users\moham\Downloads\Distributed Bank System\BankBusinessTier\obj\Debug\BankBusinessTier.csproj.AssemblyReference.cache
+C:\Users\moham\Downloads\Distributed Bank System\BankBusinessTier\obj\Debug\BankBusinessTier.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\Downloads\Distributed Bank System\BankBusinessTier\obj\Debug\BankBusinessTier.csproj.CoreCompileInputs.cache
+C:\Users\moham\Downloads\Distributed Bank System\BankBusinessTier\obj\Debug\BankBusinessTier.csproj.CopyComplete
+C:\Users\moham\Downloads\Distributed Bank System\BankBusinessTier\obj\Debug\BankBusinessTier.exe
+C:\Users\moham\Downloads\Distributed Bank System\BankBusinessTier\obj\Debug\BankBusinessTier.pdb

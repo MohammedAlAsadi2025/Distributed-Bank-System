@@ -1,0 +1,52 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<!-- Manage User View -->
+
+<!-- Search by Account Number -->
+<div>
+    <label for="accountNoSearch">Search by Account Number:</label>
+    <input type="text" id="accountNoSearch" placeholder="Enter Account Number">
+    <button onclick="searchByAccountNo()">Search</button>
+</div>
+
+<!-- Search by Username -->
+<div>
+    <label for="usernameSearch">Search by Username:</label>
+    <input type="text" id="usernameSearch" placeholder="Enter Username">
+    <button onclick="searchByUsername()">Search</button>
+</div>
+
+<!-- Display User Details (after search) -->
+<div id="userDetails">
+    <label>User Name:</label>
+    <span id="userNameDisplay"></span><br>
+
+    <label>Email:</label>
+    <span id="emailDisplay"></span><br>
+
+    <label>First Name:</label>
+    <span id="firstNameDisplay"></span><br>
+
+    <label>Last Name:</label>
+    <span id="lastNameDisplay"></span><br>
+
+    <label>Phone:</label>
+    <span id="phoneDisplay"></span><br>
+
+    <!-- ... Add other user profile fields as needed ... -->
+</div>
+
+<!-- Delete User based on Username -->
+<div>
+    <button onclick="deleteUser()">Delete User</button>
+</div>
+
+<!-- Change Password for User -->
+<div>
+    <label for="newPassword">Change Password:</label>
+    <input type="password" id="newPassword" placeholder="Enter New Password">
+    <button onclick="changePassword()">Change</button>
+</div>

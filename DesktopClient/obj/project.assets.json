@@ -1,0 +1,115 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "Bank System Server/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "BankDLL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Bank System Server.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Bank System Server.dll": {}
+        }
+      },
+      "BankDLL/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/BankDLL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BankDLL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bank System Server/1.0.0": {
+      "type": "project",
+      "path": "../Bank System Server/Bank System Server.csproj",
+      "msbuildProject": "../Bank System Server/Bank System Server.csproj"
+    },
+    "BankDLL/1.0.0": {
+      "type": "project",
+      "path": "../BankDLL/BankDLL.csproj",
+      "msbuildProject": "../BankDLL/BankDLL.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "Bank System Server >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\AERO\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\AERO\\Downloads\\Distributed Bank System\\DesktopClient\\DesktopClient.csproj",
+      "projectName": "DesktopClient",
+      "projectPath": "C:\\Users\\AERO\\Downloads\\Distributed Bank System\\DesktopClient\\DesktopClient.csproj",
+      "packagesPath": "C:\\Users\\AERO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\AERO\\Downloads\\Distributed Bank System\\DesktopClient\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\AERO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "C:\\Users\\AERO\\Downloads\\Distributed Bank System\\Bank System Server\\Bank System Server.csproj": {
+              "projectPath": "C:\\Users\\AERO\\Downloads\\Distributed Bank System\\Bank System Server\\Bank System Server.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400-preview.23330.10\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

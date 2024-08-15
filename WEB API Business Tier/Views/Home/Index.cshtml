@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>My Page</title>
+    <link rel="stylesheet" href="~/css/site.css">
+
+</head>
+<body>
+    <div id="header">
+
+    </div>
+    <div id="navigation">
+        <ul>
+            <li> <button type="button" id="LoginButton" onclick="loadView()">Login</button></li>
+            <li> <button type="button" id="ProfileButton" onclick="loadView('profile')">Profile</button></li>
+            <li> <button type="button" id="AccountButton" onclick="loadView('account')">Account</button></li>
+            <li> <button type="button" id="TransferButton" onclick="loadView('transfer')">Transfer</button></li>
+            <li> <button type="button" id="HistoryButton" onclick="loadView('history')">History</button></li>
+            <li> <button type="button" id="ManageButton" onclick="loadView('manage')" style="display: none;">Manage</button></li>
+            <li> <button type="button" id="UserTransactionsButton" onclick="loadView('usertransactions')" style="display: none;">UserTransactions</button></li>
+            <li> <button type="button" id="LogsButton" onclick="loadView('logs')" style="display: none;">Logs</button></li>                      
+            <li> <button type="button" id="LogoutButton" onclick="loadView('logout')" style="display: none;">Logout</button></li>
+        </ul>
+    </div>
+    <div id="main">
+
+    </div>
+    <div id="footer">
+        <p> </p>
+    </div>
+    <script src="~/js/site.js"></script>
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+</body>
+</html>

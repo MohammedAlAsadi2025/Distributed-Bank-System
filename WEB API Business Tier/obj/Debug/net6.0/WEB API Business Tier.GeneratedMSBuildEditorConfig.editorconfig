@@ -1,0 +1,105 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WEB_API_Business_Tier
+build_property.RootNamespace = WEB_API_Business_Tier
+build_property.ProjectDir = C:\Users\moham\OneDrive\Desktop\Uni Assignments\Distributed Bank System\WEB API Business Tier\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\moham\OneDrive\Desktop\Uni Assignments\Distributed Bank System\WEB API Business Tier
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/moham/OneDrive/Desktop/Uni Assignments/Distributed Bank System/WEB API Business Tier/Views/Account/AccountViewAuthenticated.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBY2NvdW50Vmlld0F1dGhlbnRpY2F0ZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/moham/OneDrive/Desktop/Uni Assignments/Distributed Bank System/WEB API Business Tier/Views/Account/AccountViewDefault.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBY2NvdW50Vmlld0RlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/moham/OneDrive/Desktop/Uni Assignments/Distributed Bank System/WEB API Business Tier/Views/History/HistoryViewAuthenticated.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGlzdG9yeVxIaXN0b3J5Vmlld0F1dGhlbnRpY2F0ZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/moham/OneDrive/Desktop/Uni Assignments/Distributed Bank System/WEB API Business Tier/Views/History/HistoryViewDefault.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGlzdG9yeVxIaXN0b3J5Vmlld0RlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/moham/OneDrive/Desktop/Uni Assignments/Distributed Bank System/WEB API Business Tier/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/moham/OneDrive/Desktop/Uni Assignments/Distributed Bank System/WEB API Business Tier/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/moham/OneDrive/Desktop/Uni Assignments/Distributed Bank System/WEB API Business Tier/Views/Login/LoginDefaultView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW5EZWZhdWx0Vmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/moham/OneDrive/Desktop/Uni Assignments/Distributed Bank System/WEB API Business Tier/Views/Login/LoginErrorView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW5FcnJvclZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/moham/OneDrive/Desktop/Uni Assignments/Distributed Bank System/WEB API Business Tier/Views/Login/LoginViewAuthenticated.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW5WaWV3QXV0aGVudGljYXRlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/moham/OneDrive/Desktop/Uni Assignments/Distributed Bank System/WEB API Business Tier/Views/Logout/LogoutView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9nb3V0XExvZ291dFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/moham/OneDrive/Desktop/Uni Assignments/Distributed Bank System/WEB API Business Tier/Views/Logs/LogsView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9nc1xMb2dzVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/moham/OneDrive/Desktop/Uni Assignments/Distributed Bank System/WEB API Business Tier/Views/Manage/ManageView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlXE1hbmFnZVZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/moham/OneDrive/Desktop/Uni Assignments/Distributed Bank System/WEB API Business Tier/Views/Profile/ProfileViewAuthenticated.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZVxQcm9maWxlVmlld0F1dGhlbnRpY2F0ZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/moham/OneDrive/Desktop/Uni Assignments/Distributed Bank System/WEB API Business Tier/Views/Profile/ProfileViewDefault.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZVxQcm9maWxlVmlld0RlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/moham/OneDrive/Desktop/Uni Assignments/Distributed Bank System/WEB API Business Tier/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/moham/OneDrive/Desktop/Uni Assignments/Distributed Bank System/WEB API Business Tier/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/moham/OneDrive/Desktop/Uni Assignments/Distributed Bank System/WEB API Business Tier/Views/Transfer/TransferViewAuthenticated.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNmZXJcVHJhbnNmZXJWaWV3QXV0aGVudGljYXRlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/moham/OneDrive/Desktop/Uni Assignments/Distributed Bank System/WEB API Business Tier/Views/Transfer/TransferViewDefault.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNmZXJcVHJhbnNmZXJWaWV3RGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/moham/OneDrive/Desktop/Uni Assignments/Distributed Bank System/WEB API Business Tier/Views/UserTransactions/UserTransactionsView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclRyYW5zYWN0aW9uc1xVc2VyVHJhbnNhY3Rpb25zVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/moham/OneDrive/Desktop/Uni Assignments/Distributed Bank System/WEB API Business Tier/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/moham/OneDrive/Desktop/Uni Assignments/Distributed Bank System/WEB API Business Tier/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/moham/OneDrive/Desktop/Uni Assignments/Distributed Bank System/WEB API Business Tier/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ny0eyl5gnu

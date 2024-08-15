@@ -1,0 +1,29 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model List<API_Classes.TransactionIntermed>
+
+<h2>Transaction History</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>Transaction Date</th>
+            <th>Transaction Type</th>
+            <th>Amount</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var transaction in Model)
+        {
+                <tr>
+                    <td>@transaction.TransactionDate</td>
+                    <td>@transaction.TransactionType</td>
+                    <td>@transaction.Amount</td>
+                </tr>
+        }
+    </tbody>
+</table>
+

@@ -1,0 +1,78 @@
+C:\Users\moham\Downloads\Distributed Bank System\WEB API Business Tier\obj\Debug\net6.0\WEB API Business Tier.csproj.AssemblyReference.cache
+C:\Users\moham\Downloads\Distributed Bank System\WEB API Business Tier\obj\Debug\net6.0\WEB API Business Tier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\Downloads\Distributed Bank System\WEB API Business Tier\obj\Debug\net6.0\WEB API Business Tier.AssemblyInfoInputs.cache
+C:\Users\moham\Downloads\Distributed Bank System\WEB API Business Tier\obj\Debug\net6.0\WEB API Business Tier.AssemblyInfo.cs
+C:\Users\moham\Downloads\Distributed Bank System\WEB API Business Tier\obj\Debug\net6.0\WEB API Business Tier.csproj.CoreCompileInputs.cache
+C:\Users\moham\Downloads\Distributed Bank System\WEB API Business Tier\obj\Debug\net6.0\WEB API Business Tier.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\moham\Downloads\Distributed Bank System\WEB API Business Tier\obj\Debug\net6.0\WEB API Business Tier.RazorAssemblyInfo.cache
+C:\Users\moham\Downloads\Distributed Bank System\WEB API Business Tier\obj\Debug\net6.0\WEB API Business Tier.RazorAssemblyInfo.cs
+C:\Users\moham\Downloads\Distributed Bank System\WEB API Business Tier\obj\Debug\net6.0\staticwebassets\msbuild.WEB API Business Tier.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\moham\Downloads\Distributed Bank System\WEB API Business Tier\obj\Debug\net6.0\staticwebassets\msbuild.build.WEB API Business Tier.props
+C:\Users\moham\Downloads\Distributed Bank System\WEB API Business Tier\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WEB API Business Tier.props
+C:\Users\moham\Downloads\Distributed Bank System\WEB API Business Tier\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WEB API Business Tier.props
+C:\Users\moham\Downloads\Distributed Bank System\WEB API Business Tier\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\moham\Downloads\Distributed Bank System\WEB API Business Tier\obj\Debug\net6.0\WEB API Business Tier.dll
+C:\Users\moham\Downloads\Distributed Bank System\WEB API Business Tier\obj\Debug\net6.0\refint\WEB API Business Tier.dll
+C:\Users\moham\Downloads\Distributed Bank System\WEB API Business Tier\obj\Debug\net6.0\WEB API Business Tier.pdb
+C:\Users\moham\Downloads\Distributed Bank System\WEB API Business Tier\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\moham\Downloads\Distributed Bank System\WEB API Business Tier\bin\Debug\net6.0\appsettings.json
+C:\Users\moham\Downloads\Distributed Bank System\WEB API Business Tier\bin\Debug\net6.0\WEB API Business Tier.staticwebassets.runtime.json
+C:\Users\moham\Downloads\Distributed Bank System\WEB API Business Tier\bin\Debug\net6.0\WEB API Business Tier.exe
+C:\Users\moham\Downloads\Distributed Bank System\WEB API Business Tier\bin\Debug\net6.0\WEB API Business Tier.deps.json
+C:\Users\moham\Downloads\Distributed Bank System\WEB API Business Tier\bin\Debug\net6.0\WEB API Business Tier.runtimeconfig.json
+C:\Users\moham\Downloads\Distributed Bank System\WEB API Business Tier\bin\Debug\net6.0\WEB API Business Tier.dll
+C:\Users\moham\Downloads\Distributed Bank System\WEB API Business Tier\bin\Debug\net6.0\WEB API Business Tier.pdb
+C:\Users\moham\Downloads\Distributed Bank System\WEB API Business Tier\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\moham\Downloads\Distributed Bank System\WEB API Business Tier\bin\Debug\net6.0\RestSharp.dll
+C:\Users\moham\Downloads\Distributed Bank System\WEB API Business Tier\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\moham\Downloads\Distributed Bank System\WEB API Business Tier\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\moham\Downloads\Distributed Bank System\WEB API Business Tier\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\moham\Downloads\Distributed Bank System\WEB API Business Tier\bin\Debug\net6.0\API_Classes.dll
+C:\Users\moham\Downloads\Distributed Bank System\WEB API Business Tier\bin\Debug\net6.0\API_Classes.pdb
+C:\Users\moham\Downloads\Distributed Bank System\WEB API Business Tier\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\moham\Downloads\Distributed Bank System\WEB API Business Tier\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\moham\Downloads\Distributed Bank System\WEB API Business Tier\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\moham\Downloads\Distributed Bank System\WEB API Business Tier\obj\Debug\net6.0\scopedcss\bundle\WEB API Business Tier.styles.css
+C:\Users\moham\Downloads\Distributed Bank System\WEB API Business Tier\obj\Debug\net6.0\scopedcss\projectbundle\WEB API Business Tier.bundle.scp.css
+C:\Users\moham\Downloads\Distributed Bank System\WEB API Business Tier\obj\Debug\net6.0\WEB API Business Tier.csproj.CopyComplete
+C:\Users\moham\Downloads\Distributed Bank System\WEB API Business Tier\obj\Debug\net6.0\WEB API Business Tier.genruntimeconfig.cache
+C:\Users\moham\Downloads\Distributed Bank System\WEB API Business Tier\obj\Debug\net6.0\ref\WEB API Business Tier.dll
+C:\Users\moham\OneDrive\Desktop\Uni Assignments\Distributed Bank System\WEB API Business Tier\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\moham\OneDrive\Desktop\Uni Assignments\Distributed Bank System\WEB API Business Tier\bin\Debug\net6.0\appsettings.json
+C:\Users\moham\OneDrive\Desktop\Uni Assignments\Distributed Bank System\WEB API Business Tier\bin\Debug\net6.0\WEB API Business Tier.staticwebassets.runtime.json
+C:\Users\moham\OneDrive\Desktop\Uni Assignments\Distributed Bank System\WEB API Business Tier\bin\Debug\net6.0\WEB API Business Tier.exe
+C:\Users\moham\OneDrive\Desktop\Uni Assignments\Distributed Bank System\WEB API Business Tier\bin\Debug\net6.0\WEB API Business Tier.deps.json
+C:\Users\moham\OneDrive\Desktop\Uni Assignments\Distributed Bank System\WEB API Business Tier\bin\Debug\net6.0\WEB API Business Tier.runtimeconfig.json
+C:\Users\moham\OneDrive\Desktop\Uni Assignments\Distributed Bank System\WEB API Business Tier\bin\Debug\net6.0\WEB API Business Tier.dll
+C:\Users\moham\OneDrive\Desktop\Uni Assignments\Distributed Bank System\WEB API Business Tier\bin\Debug\net6.0\WEB API Business Tier.pdb
+C:\Users\moham\OneDrive\Desktop\Uni Assignments\Distributed Bank System\WEB API Business Tier\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\moham\OneDrive\Desktop\Uni Assignments\Distributed Bank System\WEB API Business Tier\bin\Debug\net6.0\RestSharp.dll
+C:\Users\moham\OneDrive\Desktop\Uni Assignments\Distributed Bank System\WEB API Business Tier\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\moham\OneDrive\Desktop\Uni Assignments\Distributed Bank System\WEB API Business Tier\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\moham\OneDrive\Desktop\Uni Assignments\Distributed Bank System\WEB API Business Tier\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\moham\OneDrive\Desktop\Uni Assignments\Distributed Bank System\WEB API Business Tier\bin\Debug\net6.0\API_Classes.dll
+C:\Users\moham\OneDrive\Desktop\Uni Assignments\Distributed Bank System\WEB API Business Tier\bin\Debug\net6.0\API_Classes.pdb
+C:\Users\moham\OneDrive\Desktop\Uni Assignments\Distributed Bank System\WEB API Business Tier\obj\Debug\net6.0\WEB API Business Tier.csproj.AssemblyReference.cache
+C:\Users\moham\OneDrive\Desktop\Uni Assignments\Distributed Bank System\WEB API Business Tier\obj\Debug\net6.0\WEB API Business Tier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\OneDrive\Desktop\Uni Assignments\Distributed Bank System\WEB API Business Tier\obj\Debug\net6.0\WEB API Business Tier.AssemblyInfoInputs.cache
+C:\Users\moham\OneDrive\Desktop\Uni Assignments\Distributed Bank System\WEB API Business Tier\obj\Debug\net6.0\WEB API Business Tier.AssemblyInfo.cs
+C:\Users\moham\OneDrive\Desktop\Uni Assignments\Distributed Bank System\WEB API Business Tier\obj\Debug\net6.0\WEB API Business Tier.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Desktop\Uni Assignments\Distributed Bank System\WEB API Business Tier\obj\Debug\net6.0\WEB API Business Tier.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\moham\OneDrive\Desktop\Uni Assignments\Distributed Bank System\WEB API Business Tier\obj\Debug\net6.0\WEB API Business Tier.RazorAssemblyInfo.cache
+C:\Users\moham\OneDrive\Desktop\Uni Assignments\Distributed Bank System\WEB API Business Tier\obj\Debug\net6.0\WEB API Business Tier.RazorAssemblyInfo.cs
+C:\Users\moham\OneDrive\Desktop\Uni Assignments\Distributed Bank System\WEB API Business Tier\obj\Debug\net6.0\staticwebassets\msbuild.WEB API Business Tier.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\moham\OneDrive\Desktop\Uni Assignments\Distributed Bank System\WEB API Business Tier\obj\Debug\net6.0\staticwebassets\msbuild.build.WEB API Business Tier.props
+C:\Users\moham\OneDrive\Desktop\Uni Assignments\Distributed Bank System\WEB API Business Tier\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WEB API Business Tier.props
+C:\Users\moham\OneDrive\Desktop\Uni Assignments\Distributed Bank System\WEB API Business Tier\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WEB API Business Tier.props
+C:\Users\moham\OneDrive\Desktop\Uni Assignments\Distributed Bank System\WEB API Business Tier\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\moham\OneDrive\Desktop\Uni Assignments\Distributed Bank System\WEB API Business Tier\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\moham\OneDrive\Desktop\Uni Assignments\Distributed Bank System\WEB API Business Tier\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\moham\OneDrive\Desktop\Uni Assignments\Distributed Bank System\WEB API Business Tier\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\moham\OneDrive\Desktop\Uni Assignments\Distributed Bank System\WEB API Business Tier\obj\Debug\net6.0\scopedcss\bundle\WEB API Business Tier.styles.css
+C:\Users\moham\OneDrive\Desktop\Uni Assignments\Distributed Bank System\WEB API Business Tier\obj\Debug\net6.0\scopedcss\projectbundle\WEB API Business Tier.bundle.scp.css
+C:\Users\moham\OneDrive\Desktop\Uni Assignments\Distributed Bank System\WEB API Business Tier\obj\Debug\net6.0\WEB API Business Tier.csproj.CopyComplete
+C:\Users\moham\OneDrive\Desktop\Uni Assignments\Distributed Bank System\WEB API Business Tier\obj\Debug\net6.0\WEB API Business Tier.dll
+C:\Users\moham\OneDrive\Desktop\Uni Assignments\Distributed Bank System\WEB API Business Tier\obj\Debug\net6.0\refint\WEB API Business Tier.dll
+C:\Users\moham\OneDrive\Desktop\Uni Assignments\Distributed Bank System\WEB API Business Tier\obj\Debug\net6.0\WEB API Business Tier.pdb
+C:\Users\moham\OneDrive\Desktop\Uni Assignments\Distributed Bank System\WEB API Business Tier\obj\Debug\net6.0\WEB API Business Tier.genruntimeconfig.cache
+C:\Users\moham\OneDrive\Desktop\Uni Assignments\Distributed Bank System\WEB API Business Tier\obj\Debug\net6.0\ref\WEB API Business Tier.dll

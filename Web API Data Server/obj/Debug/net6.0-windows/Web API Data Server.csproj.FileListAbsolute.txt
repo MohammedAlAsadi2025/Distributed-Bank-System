@@ -1,0 +1,8 @@
+C:\Users\moham\Downloads\Distributed Bank System\Web API Data Server\obj\Debug\net6.0-windows\Web API Data Server.csproj.AssemblyReference.cache
+C:\Users\moham\Downloads\Distributed Bank System\Web API Data Server\obj\Debug\net6.0-windows\Web API Data Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\Downloads\Distributed Bank System\Web API Data Server\obj\Debug\net6.0-windows\Web API Data Server.AssemblyInfoInputs.cache
+C:\Users\moham\Downloads\Distributed Bank System\Web API Data Server\obj\Debug\net6.0-windows\Web API Data Server.AssemblyInfo.cs
+C:\Users\moham\Downloads\Distributed Bank System\Web API Data Server\obj\Debug\net6.0-windows\Web API Data Server.csproj.CoreCompileInputs.cache
+C:\Users\moham\Downloads\Distributed Bank System\Web API Data Server\obj\Debug\net6.0-windows\Web API Data Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\moham\Downloads\Distributed Bank System\Web API Data Server\obj\Debug\net6.0-windows\Web API Data Server.RazorAssemblyInfo.cache
+C:\Users\moham\Downloads\Distributed Bank System\Web API Data Server\obj\Debug\net6.0-windows\Web API Data Server.RazorAssemblyInfo.cs

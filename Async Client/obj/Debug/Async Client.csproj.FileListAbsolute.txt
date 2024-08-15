@@ -1,0 +1,22 @@
+C:\Users\moham\Downloads\Distributed Bank System\Async Client\bin\Debug\Async Client.exe.config
+C:\Users\moham\Downloads\Distributed Bank System\Async Client\bin\Debug\Async Client.exe
+C:\Users\moham\Downloads\Distributed Bank System\Async Client\bin\Debug\Async Client.pdb
+C:\Users\moham\Downloads\Distributed Bank System\Async Client\bin\Debug\BankBusinessTier.exe
+C:\Users\moham\Downloads\Distributed Bank System\Async Client\bin\Debug\BankDLL.dll
+C:\Users\moham\Downloads\Distributed Bank System\Async Client\bin\Debug\BankBusinessTier.pdb
+C:\Users\moham\Downloads\Distributed Bank System\Async Client\bin\Debug\BankBusinessTier.exe.config
+C:\Users\moham\Downloads\Distributed Bank System\Async Client\bin\Debug\BankDLL.pdb
+C:\Users\moham\Downloads\Distributed Bank System\Async Client\obj\Debug\Async Client.csproj.AssemblyReference.cache
+C:\Users\moham\Downloads\Distributed Bank System\Async Client\obj\Debug\Async Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\Downloads\Distributed Bank System\Async Client\obj\Debug\MainWindow.g.cs
+C:\Users\moham\Downloads\Distributed Bank System\Async Client\obj\Debug\App.g.cs
+C:\Users\moham\Downloads\Distributed Bank System\Async Client\obj\Debug\Async Client_MarkupCompile.cache
+C:\Users\moham\Downloads\Distributed Bank System\Async Client\obj\Debug\Async Client_MarkupCompile.lref
+C:\Users\moham\Downloads\Distributed Bank System\Async Client\obj\Debug\MainWindow.baml
+C:\Users\moham\Downloads\Distributed Bank System\Async Client\obj\Debug\Async Client.g.resources
+C:\Users\moham\Downloads\Distributed Bank System\Async Client\obj\Debug\Async_Client.Properties.Resources.resources
+C:\Users\moham\Downloads\Distributed Bank System\Async Client\obj\Debug\Async Client.csproj.GenerateResource.cache
+C:\Users\moham\Downloads\Distributed Bank System\Async Client\obj\Debug\Async Client.csproj.CoreCompileInputs.cache
+C:\Users\moham\Downloads\Distributed Bank System\Async Client\obj\Debug\Async Client.csproj.CopyComplete
+C:\Users\moham\Downloads\Distributed Bank System\Async Client\obj\Debug\Async Client.exe
+C:\Users\moham\Downloads\Distributed Bank System\Async Client\obj\Debug\Async Client.pdb

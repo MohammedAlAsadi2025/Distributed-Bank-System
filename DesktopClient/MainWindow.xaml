@@ -1,0 +1,19 @@
+﻿<Window x:Class="DesktopClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DesktopClient"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Content="Go" HorizontalAlignment="Left" Margin="565,371,0,0" VerticalAlignment="Top" Click="Button_Click" RenderTransformOrigin="0.465,6.011"/>
+        <TextBox HorizontalAlignment="Left" Margin="321,88,0,0" TextWrapping="Wrap" Text="Last Name" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Margin="321,55,0,0" TextWrapping="Wrap" Text="First Name" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged"/>
+        <TextBox HorizontalAlignment="Left" Margin="321,121,0,0" TextWrapping="Wrap" Text="AcctNo" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Margin="321,154,0,0" TextWrapping="Wrap" Text="Pin" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Margin="321,188,0,0" TextWrapping="Wrap" Text="Balance" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Margin="198,373,0,0" TextWrapping="Wrap" Text="Index" VerticalAlignment="Top" Width="120"/>
+
+    </Grid>
+</Window>
